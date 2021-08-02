@@ -1,0 +1,10 @@
+Main:
+    - Be able to generate a grid of 3^n by 3^n size.
+    - Be able to apply the basic matrix transformation.
+    - Be able to place a vector anywhere
+
+
+
+Animation
+    - Show animation for all matrix transformations.
+    - Show vector being placed
